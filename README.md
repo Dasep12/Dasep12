@@ -1,4 +1,4 @@
-Hallo perkenalkan saya adalah Junior BackEnd , 
+Hallo perkenalkan saya Dasep Depiyawan saya seorang Backend developer... 
 Saya menguasai bahasa pemrograman PHP dan Java
 Framework yang saya kuasai adalah CodeIgniter dan Laravel8
 
