@@ -1,6 +1,6 @@
 Hallo perkenalkan saya Dasep Depiyawan saya seorang Backend developer...  <br>
 Bahasa pemrograman yang dipakai : <br>
--PHP  (CodeIgniter 3 & Laravel 8) <br>
+-PHP  (CodeIgniter  & Laravel ) <br>
 -Javascript <br>
 -Jquery <br>
 -CSS <br>
