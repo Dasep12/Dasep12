@@ -1,14 +1,14 @@
-Hallo perkenalkan saya Dasep Depiyawan saya seorang Backend developer...  <br>
-Bahasa pemrograman yang dipakai : <br>
+Hallo, introduce me Dasep Depiyawan, I am a backend developer...
+Programming language used: : <br>
 -PHP  (CodeIgniter  & Laravel ) <br>
 -Javascript <br>
 -Jquery <br>
 -CSS <br>
 
-Silahkan kunjungi repository git ini sebagai bentuk portfolio dari saya <br>
+Please visit this git repository as a form of my portfolio <br>
 
 CP / WhatasApp : +62-83821619460 <br>
-Website saya : http://dasepdepiyawan.epizy.com <br>
+Website  : http://dasepdepiyawan.epizy.com <br>
 Email   : depiyawandasep13@gmail.com <br>
 
-terimakasih
+Thanks
