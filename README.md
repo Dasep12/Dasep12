@@ -1,6 +1,6 @@
-Hallo, introduce me Dasep Depiyawan, I am a backend developer... <br>
+Hallo, introduce me Dasep Depiyawan, I am a Web Programmer  <br>
 Programming language used: : <br>
--PHP  (CodeIgniter  & Laravel ) <br>
+-PHP (CodeIgniter  & Laravel ) <br>
 -Javascript <br>
 -Jquery <br>
 -CSS <br>
